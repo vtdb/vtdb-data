@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "avatarUrl": "https://yt3.ggpht.com/i0bFHwJRXERKRdIYoVr6TA_qxqCT5cGbEPJDejLeb5lxLwpXxIaYNy2U4Hrb3C-89rCZCKK2x5g=s256-c-k-c0x00ffffff-no-rj",
+    "sex": 2,
+    "status": 1,
+    "links": [
+      {
+        "name": "apchi ch.",
+        "url": "https://www.youtube.com/channel/UCwkITTjqCl0q9fXBAJUjhsQ",
+        "isMain": true
+      },
+      {
+        "name": "apchi",
+        "url": "https://vk.com/apchivtuber",
+        "isMain": false
+      },
+      {
+        "name": "apchi",
+        "url": "https://twitter.com/apchivtuber",
+        "isMain": false
+      },
+      {
+        "name": "apchivtuber",
+        "url": "https://twitch.tv/apchivtuber",
+        "isMain": false
+      },
+      {
+        "name": "vtdb github",
+        "url": "https://github.com/vtdb",
+        "isMain": false
+      }
+    ]
+  }
+]
