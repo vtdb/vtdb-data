@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "lang": "en",
+        "isDefault": true,
+        "text": "Indie"
+    },
+    {
+        "id": 0,
+        "lang": "ru",
+        "isDefault": false,
+        "text": "Инди"
+    }
+]
