@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "lang": "en",
+        "isDefault": true,
+        "text": "Just simple humans"
+    },
+    {
+        "id": 1,
+        "lang": "ru",
+        "isDefault": false,
+        "text": "Обыкновенные человеки"
+    }
+]

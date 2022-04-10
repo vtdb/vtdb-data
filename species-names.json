@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "lang": "en",
+        "isDefault": true,
+        "text": "Human"
+    },
+    {
+        "id": 1,
+        "lang": "ru",
+        "isDefault": false,
+        "text": "Человек"
+    },
+    {
+        "id": 2,
+        "lang": "en",
+        "isDefault": true,
+        "text": "Ghost"
+    },
+    {
+        "id": 2,
+        "lang": "ru",
+        "isDefault": false,
+        "text": "Призрак"
+    }
+]

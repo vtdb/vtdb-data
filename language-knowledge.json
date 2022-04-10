@@ -1,0 +1,20 @@
+[
+    {
+        "vtuber_id": 0,
+        "lang": "ru",
+        "level": 0,
+        "usage": 0
+    },
+    {
+        "vtuber_id": 0,
+        "lang": "en",
+        "level": 2,
+        "usage": 1
+    },
+    {
+        "vtuber_id": 0,
+        "lang": "ja",
+        "level": 3,
+        "usage": 2
+    }
+]
